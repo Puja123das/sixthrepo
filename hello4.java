@@ -1,5 +1,5 @@
 class A{  
 static public void main(String... args){  
-System.out.println("hiii java6");  
+System.out.println("hiii java6,hello world");  
 }  
 };  
